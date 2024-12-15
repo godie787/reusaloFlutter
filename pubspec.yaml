@@ -1,0 +1,44 @@
+name: flutter_reusalo
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  firebase_auth: ^5.3.1
+  firebase_core: ^3.6.0
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  google_sign_in: ^6.2.1
+  material_design_icons_flutter: ^7.0.7296
+  progress_indicators: ^1.0.0
+  shared_preferences: ^2.3.2
+  local_auth: ^2.3.0
+  intl: ^0.18.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: FredokaOne
+      fonts:
+        - asset: assets/fonts/FredokaOne-Regular.ttf
+    - family: FiraCode
+      fonts:
+        - asset: assets/fonts/FiraCode-SemiBold.ttf
+
+
+  assets:
+    - assets/images/
+    - assets/fonts/
+    - assets/icons/
+    - assets/images/carro_vacio_evento.png
+    - assets/images/imagen_no_disponible.jpg
+    - assets/images/default_event_image.jpg

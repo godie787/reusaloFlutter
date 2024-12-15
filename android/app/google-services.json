@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "310175728419",
+    "project_id": "reusalov2-591e3",
+    "storage_bucket": "reusalov2-591e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310175728419:android:a8d78ec69b5b6ff5718296",
+        "android_client_info": {
+          "package_name": "com.example.reusalo_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310175728419-e88mimau24p5s6qun0fim8scu6nh5d9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reusalo_v2",
+            "certificate_hash": "b253e8be753ade3748b7c71b443db2df453ba127"
+          }
+        },
+        {
+          "client_id": "310175728419-pdgd71619a64luqcf1s64klhatrs306h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgm0cD23y38igPhVmtHWPkutW2dcjcZ4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310175728419-pdgd71619a64luqcf1s64klhatrs306h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "310175728419-qbbq7nh5mfft2iavquj46aclta7162f3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.reusaloV2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
